@@ -1,2 +1,21 @@
 .env
 .ipynb_checkpoints
+venv/
+chroma/
+localai/
+__pycache__/
+dataanon.ipynb
+dotenv2.py
+FileCallbackHandler.py
+L1-Model_prompt_parser_localai.ipynb
+L3-Chains LocalAI.ipynb
+L4-QnA-Gemma.ipynb
+L5-Evaluation LocalAI-RLWIN11.ipynb
+L5-Evaluation LocalAI.ipynb
+llamaindex-vs-langchain.ipynb
+llamaindex.py
+lmstudio.py
+requirements-backup.txt
+.exclude/localai.ipynb
+test.py
+test-RLWIN11.py
